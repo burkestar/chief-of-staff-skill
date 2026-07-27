@@ -1,5 +1,8 @@
 # Chief of Staff Skill
 
+> [!WARNING]  
+> Migrated to https://github.com/burkestar/skills
+
 My personal Chief of Staff agent to help me keep my work life organized!
 
 Uses MCP tools to pull information from connected work systems (Gmail, Google Calendar, Google Tasks, Google Docs, JIRA, Confluence, Github, Slack) for recent activities 
